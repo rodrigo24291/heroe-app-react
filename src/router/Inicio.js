@@ -24,6 +24,7 @@ export const Inicio = () => {
     
     <Route exact path={'/login'} element={<Login/>} />
 
+    <Route exact path={'/'}  element={<Marvel/>} />
     <Route exact path={'/marvel'}  element={<Marvel/>} />
 <Route exact path={'/heroe/:id'} element={<Heroe/>} />
 <Route exact path={'/DC'} element={<Dc/>} />
