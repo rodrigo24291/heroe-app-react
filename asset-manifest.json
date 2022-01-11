@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/heroe-app-react/static/css/main.073c9b0a.css",
+    "main.js": "/heroe-app-react/static/js/main.48ce7a35.js",
+    "index.html": "/heroe-app-react/index.html",
+    "main.073c9b0a.css.map": "/heroe-app-react/static/css/main.073c9b0a.css.map",
+    "main.48ce7a35.js.map": "/heroe-app-react/static/js/main.48ce7a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.48ce7a35.js"
+  ]
+}
