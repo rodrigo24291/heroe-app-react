@@ -39,7 +39,7 @@ navigate(`/heroe/${da}`)
 
 <div className='col-12 col-md-4 col-lg-3'>
 <div className="card my-3 " >
-  <img src={`heroesimg/${re.id}.jpg`} className="card-img-top" alt="..."/>
+  <img src={`./heroe-app-react/heroesimg/${re.id}.jpg`} className="card-img-top" alt="..."/>
   <div className="card-body">
     <h5 className="card-title">{re.superhero}</h5>
   </div>

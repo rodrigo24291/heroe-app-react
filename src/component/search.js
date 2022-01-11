@@ -52,7 +52,7 @@ setstate(value)
                 <div className='card ms-3' style={{ maxWidth: 540 }}>
                 <div className='row no-gutters'>
                     <div className='col-md-4'>
-                        <img src={`../heroesimg/${re.id}.jpg`} className='card-img' alt="" />
+                        <img src={`./heroe-app-react/heroesimg/${re.id}.jpg`} className='card-img' alt="" />
                     </div>
                     <div className='col-md-8'>
                         <div className='card-body'>
